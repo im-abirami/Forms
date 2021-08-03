@@ -1,0 +1,29 @@
+h1{
+    color:red;
+    background:white;
+  }
+  body{
+    color:white;
+    background:purple;
+    text-align:center;
+  }
+  button{
+    background:red;
+    color:white;
+    cursor:pointer;
+    border-radius:25px;
+    width: 100px;
+    height:25px;
+  }
+  .d{
+    background:white;
+    color:black;
+    width:250px;
+    padding:20px;
+    border:10px dashed blue;
+    margin:10px 0px;
+  }
+  h2{
+    background:black;
+    color:yellow;
+  }
